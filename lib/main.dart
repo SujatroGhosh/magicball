@@ -10,7 +10,7 @@ void main() {
         appBar: AppBar(
           centerTitle: true,
           title: Text('Magic 8 Ball'),
-          backgroundColor: Colors.green.shade500,
+          backgroundColor: Colors.blue.shade500,
         ),
         body: MagicBall(),
       ),
